@@ -1,3 +1,2 @@
 # 20pixels
-20 pixels of data
 The 20 pixels of data Workshop is a proposal of a collective activity to make a LED matrix of 4x5 pixels, measuring 1.60m width x 2.00m height, and to create data visualization, low resolution graphics, visual messages and animations with Arduino and sensors. The idea is to work collectively with perception of the environment and representation of information, making digital data more accessible and visible to a broader audience in an architectural space. The Workshop aims to empower communities to build their own media device to share graphical information of the local context.
